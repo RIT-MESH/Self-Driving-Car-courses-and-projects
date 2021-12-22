@@ -8,13 +8,23 @@ Course Link: www.udemy.com/course/autonomous-robots-kalman-filter/
 
 ### Autonomous Robots Are The Future. Learn to Program Them With this Fast, Easy to Understand Course!
 
-For lovers of cars, technology and robotics alike, this online course can teach you how to write the software needed to make a self-driving car work.
+Assignment 1: Toy Implementation
+-> Intro to localization and principle of Kalman filter using simple model of car in 1D spacer
+-> Used to explain prediction of speed based on collected data and new measurement. i.e. The speed cannot change abruptly
 
-Regardless of your experience in coding, by the end of this course you will not only be proficient with Kalman Filters, but you’ll have an understanding of how robotics software works and how to write code in Python.
+Assignment 2: 1D Kalman Filter
+-> Same problem as in assignment 1, but this time Linear Kalman filter is used to localize car
+-> Explains how to setup Kalman filter and what individual matrices are used for
 
-If you are already a coding expert, this in-depth look at how Kalman Filters function will help you diversify your robotics arsenal and level up your confidence in working with autonomous robots.
+Assignment 3: 2D Kalman Filter
+-> Goal is to localize car as precise as possible while driving on a street with turns and traffic lights
+-> Program will not only recieve measurement but also vector U (user input)
 
-But this course isn’t just about accumulating knowledge. What sets this apart from other online robotics programs is that it make the process fun. You get to see what the real-life results of your code would look like with a simulated self-driving car. Robotics can (and should) be a field full of exploration, experimentation, fun, and getting your hands dirty.
+Assignment 4: Traffic light prediction
+-> In this assignment car is approaching intersection and at some point traffic light will change to red
+-> Car need to decide if it will make to other side. And based on this prediction needs to decide to stop or continue
+-> In first scenario car makes prediction based on current state
+-> In second scenario car makes prediction based on current state but also on fact that it is allowed to raise speed for 1 sec
 
 # Note:
 Package Requirements: python=3.7.4 numpy=1.16.4 matploblib=3.1.0\
