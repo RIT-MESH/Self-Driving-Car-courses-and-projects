@@ -6,7 +6,7 @@ Course Link: www.udemy.com/course/autonomous-robots-kalman-filter/
 
 
 
-### Autonomous Robots Are The Future. Learn to Program Them With My Fast, Easy to Understand Course!
+### Autonomous Robots Are The Future. Learn to Program Them With this Fast, Easy to Understand Course!
 
 For lovers of cars, technology and robotics alike, this online course can teach you how to write the software needed to make a self-driving car work.
 
