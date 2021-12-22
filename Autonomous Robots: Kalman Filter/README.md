@@ -23,7 +23,7 @@ Assignment 3: 2D Kalman Filter\
 Assignment 4: Traffic light prediction\
 -> In this assignment car is approaching intersection and at some point traffic light will change to red\
 -> Car need to decide if it will make to other side. And based on this prediction needs to decide to stop or continue\
--> In first scenario car makes prediction based on current state
+-> In first scenario car makes prediction based on current state\
 -> In second scenario car makes prediction based on current state but also on fact that it is allowed to raise speed for 1 sec
 
 # Note:
