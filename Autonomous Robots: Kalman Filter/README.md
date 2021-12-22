@@ -19,6 +19,8 @@ If you are already a coding expert, this in-depth look at how Kalman Filters fun
 
 But this course isn’t just about accumulating knowledge. What sets this apart from other online robotics programs is that I make the process fun. You get to see what the real-life results of your code would look like with a simulated self-driving car. Robotics can (and should) be a field full of exploration, experimentation, fun, and getting your hands dirty. With my courses, I make that a priority, even in an online setting.
 
+
+# Note:
 Package Requirements: python=3.7.4 numpy=1.16.4 matploblib=3.1.0\
 See list of Environment: conda env list\
 Conda Environment: conda create -n Kalman python=3.7.4 numpy=1.16.4 matplotlib=3.1.0\
