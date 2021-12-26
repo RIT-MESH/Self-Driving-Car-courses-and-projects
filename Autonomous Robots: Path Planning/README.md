@@ -1,8 +1,10 @@
 # Autonomous Robots: Path Planning
 
+<p align="center"><img src="https://github.com/RIT-MESH/Self-Driving-Car-courses-and-projects/blob/main/Autonomous%20Robots:%20Path%20Planning/autonomous-robots-path-planning.jpg?raw=true"alt="Sublime's custom image"/>
+</p>
 
 
-course link: https://www.udemy.com/course/autonomous-robots-path-planning/learn/lecture/
+                              course link: https://www.udemy.com/course/autonomous-robots-path-planning/
 
 # Note:
 Package Requirements: python=3.7.4 numpy=1.16.4 matplotlib=3.1.0 \
