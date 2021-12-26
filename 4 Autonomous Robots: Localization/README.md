@@ -15,7 +15,7 @@ Deactivate Environment: conda deactivate\
 Delete Environment: conda env remove -n nameofevnironment
 
 -----------------------------------------------------------------------------------------------------------
-## Assigment 1: Least Squares
+### Assigment 1: Least Squares
 -> Based on locations of poles and distance from robot´s position to each of the pole calculate robot´s location.\
 -> You don´t know which measuremnet corespond to which pole.\
 -> Based on cost function, you will find the location with lowest total cost.\
