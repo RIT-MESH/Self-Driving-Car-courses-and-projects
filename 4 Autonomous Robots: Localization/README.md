@@ -24,8 +24,8 @@ Delete Environment: conda env remove -n nameofevnironment
 ### Assigment 2: Bayes rule
 -> Bayes rule used to determinate location of robot in 1D world\
 -> Bayes rule is used to update probability of some phenomena based on new observation or in other words update your beliefs based on evidence
--> Bayes rule: https://en.wikipedia.org/wiki/Bayes%27_theorem or https://www.youtube.com/watch?v=HZGCoVF3YvM
--> 2-1 -> Robot moves every time exactly same distance with 0 uncertainty
+-> Bayes rule: https://en.wikipedia.org/wiki/Bayes%27_theorem or https://www.youtube.com/watch?v=HZGCoVF3YvM \
+-> 2-1 -> Robot moves every time exactly same distance with 0 uncertainty\
 -> 2-2 -> Robots moves with some move uncertainty
 
 ### Assigment 3: 1D Particle filter
