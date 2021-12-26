@@ -16,3 +16,22 @@ Activate Environment: conda activate MPC\
 Deactivate Environment: conda deactivate\
 Delete Environment: conda env remove -n nameofevnironment
 
+
+### Assigment 0: Intro
+-> Intro to MPC shown on temperature regulation\
+-> Used to explain cost function and how optimization works\
+
+### Assigment 1: Highway speed control\
+-> More robotic´s related problem, when car cannot exceed speed limit in 1D track\
+
+### Assigment 2: Parking Control\
+-> 2D control problem, where goal is to park car at any selected place\
+-> Bicycle model is used to approximately represent model of the car\
+-> Cost function is designed so that, sharp turning or accelerating is being punished\
+-> Nicely shows how even quite hard task can be easily done with MPC\
+
+### Assigment 3: Obstacle Avoidance\
+-> 2D control problem, where goal is to get to the goal but avoid obstacle at the track\
+-> This example demonstrate more complex cost function and what problem can occur when optimization gets stuck in local minimum.\
+-> The problem with local minimum will happen only in simulation and if the car and obstacle starts in straight line. (In real life this specific case would not happen due to sensor noise)
+
