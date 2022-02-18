@@ -8,7 +8,7 @@ The procedure is as follow
 3) apply noise reduction
 4) apply the canny method to identify edges in our image or video.
 5) specify a region of interest in image or video that we're going to use to detect our lines 
-6) apply this mask on to our canny image to ultimately only show the region of interest,the region traced by the polygonal conter.We do this by applying the bitwise operator.
+6) apply this mask on to our canny image to ultimately only show the region of interest.We do this by applying the bitwise operator.
 7) apply Hough Transform to identify the lane in the region of interest
 8) combine both Hough Transformed and original image or video to show marked lanes
 
