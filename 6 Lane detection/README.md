@@ -1,6 +1,6 @@
 # Lane detection
 
-The goal of this project is to detect lanes in image or videos.
+The goal of this project is to detect lanes in image, videos or live feed.
 
 The procedure is as follow
 1) select desired video or image
