@@ -11,7 +11,8 @@ Simulation is used to train a car how to drive and navigate on its own. This sim
 3) Activate Environment: **conda activate drive**
 4) Install Dependencies: **pip install -r requirement.txt**
 5) Run main file: **python drive.py**
-6) Deactivate Environment: **conda deactivate**
+6) Simulation: **Start the simulator**
+7) Deactivate Environment: **conda deactivate** (after completion)
 
 
 **->Delete Environment: conda env remove -n nameofevnironment**
