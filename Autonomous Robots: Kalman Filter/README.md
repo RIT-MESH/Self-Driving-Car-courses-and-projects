@@ -4,7 +4,7 @@ Course Link: www.udemy.com/course/autonomous-robots-kalman-filter/
 <p align="center"><img src="https://github.com/RIT-MESH/Self-Driving-Car-courses-and-projects/blob/main/Autonomous%20Robots:%20Kalman%20Filter/147134154-8d6bd58f-bfd8-481b-9906-7d43bd586ddd.png?raw=true"alt="Sublime's custom image"/>
 </p>
 
-## Course material [Click here](https://github.com/RIT-MESH/Self-Driving-Car-courses-and-projects/edit/main/1%20Autonomous%20Robots%3A%20Kalman%20Filter/README.md) 
+## Course material [Click here](https://github.com/RIT-MESH/Self-Driving-Car-courses-and-projects/tree/main/Autonomous%20Robots%3A%20Kalman%20Filter) 
  
 
 ### Autonomous Robots Are The Future. Learn to Program Them With this Fast, Easy to Understand Course!
