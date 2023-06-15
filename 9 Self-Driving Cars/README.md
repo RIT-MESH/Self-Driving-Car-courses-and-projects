@@ -15,3 +15,10 @@ You’ll learn from a highly realistic driving environment that features 3D pede
 2) State Estimation and Localization for Self-Driving Cars
 3) Visual Perception for Self-Driving Cars
 4) Motion Planning for Self-Driving Cars
+
+   
+
+<p align="center"><img src="https://github.com/RIT-MESH/Self-Driving-Car-courses-and-projects/blob/main/9%20Self-Driving%20Cars/CERTIFICATE.jpeg?raw=true"alt="Sublime's custom image"/>
+</p>
+
+For more detail [Click here](https://www.coursera.org/account/accomplishments/specialization/RGR3DEXKQWCD) 
