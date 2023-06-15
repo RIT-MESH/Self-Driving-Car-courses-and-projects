@@ -11,7 +11,7 @@ You’ll learn from a highly realistic driving environment that features 3D pede
 
 ## There are 4 Courses in this Specialization
 
-Introduction to Self-Driving Cars\
-State Estimation and Localization for Self-Driving Cars\
-Visual Perception for Self-Driving Cars\
-Motion Planning for Self-Driving Cars
+1) Introduction to Self-Driving Cars
+2) State Estimation and Localization for Self-Driving Cars
+3) Visual Perception for Self-Driving Cars
+4) Motion Planning for Self-Driving Cars
