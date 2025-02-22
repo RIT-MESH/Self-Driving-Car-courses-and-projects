@@ -9,7 +9,7 @@ comprehensive repository featuring projects in autonomous robotics and self-driv
 - [Usage Instructions](#usage-instructions)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -74,11 +74,5 @@ We welcome contributions! To contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For questions, suggestions, or collaborations, feel free to reach out:
-- **GitHub Issues**: Open an issue if you encounter any problems.
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)
 
